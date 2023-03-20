@@ -2,7 +2,7 @@
 **A mobile game application developed with Unity that allows users to drive around a track**
 
 ## Introduction
-This game was developed solely by myslef, Thomas Cogley.  I utilized the Unity engine to develop the game.  It was created with free assets from the Unity marketplace.  I used multiple C# scripts to develop the game.
+This game was developed solely by myself, Thomas Cogley.  I utilized the Unity engine to develop the game.  It was created with free assets from the Unity marketplace.  I used multiple C# scripts to develop the game.
 
 <img src="https://user-images.githubusercontent.com/81495079/226216477-d00163ee-5432-4917-827a-6c8bb961bc4e.jpg" width="150" height="350">$~~~~~$<img src="https://user-images.githubusercontent.com/81495079/226216608-f26e9f85-ce9e-4e5c-88b8-726226da6923.jpg" width="150" height="350">
 
